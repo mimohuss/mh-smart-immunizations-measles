@@ -77,7 +77,7 @@ Usage: #definition
   * code[+] = $LNC#42077-8 "Patient Phone number"
   * code[+] = $SCT#184103008 "Patient telephone number (observable entity)"
 
-* insert Question(Organization area, Organization area,choice,false,false)
+* insert Question(OrganizationArea, Organization Area,choice,false,false)
 * item[=]
   * code[+] = IMMZ.C#DE19
   * code[+] = $LNC#56799-0 "Address"
