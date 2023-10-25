@@ -58,7 +58,7 @@ Usage: #definition
   * code[+] = $LNC#21112-8	"Birth date"
   * code[+] = $SCT#184099003 "Date of birth (observable entity)"
 
-* insert Question(caregiver, Care giver name,group,true,false)
+* insert Question(Father/Mother, Father´s/Mother´s family name,group,true,false)
 * item[=]
   * code[+] = IMMZ.C#DE14
   * code[+] = $SCT#184140000 "Caregiver details (observable entity)"
@@ -77,7 +77,7 @@ Usage: #definition
   * code[+] = $LNC#42077-8 "Patient Phone number"
   * code[+] = $SCT#184103008 "Patient telephone number (observable entity)"
 
-* insert Question(administrativeArea, Administrative area,choice,false,false)
+* insert Question(Organization area, Organization area,choice,false,false)
 * item[=]
   * code[+] = IMMZ.C#DE19
   * code[+] = $LNC#56799-0 "Address"
