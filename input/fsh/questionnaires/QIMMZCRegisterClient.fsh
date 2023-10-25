@@ -63,11 +63,6 @@ Usage: #definition
   * code[+] = IMMZ.C#DE14
   * code[+] = $SCT#184140000 "Caregiver details (observable entity)"
 
-  * insert Question(fullName, Full name of the care giver,string,true,false)
-  * item[=]
-    * code[+] = IMMZ.C#DE15
-    * code[+] = $SCT#184140000 "Caregiver details (observable entity)"
-
   * insert Question(firstName, First or given name,string,false,false)
   * item[=]
     * code[+] = IMMZ.C#DE16
